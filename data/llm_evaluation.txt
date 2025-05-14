@@ -1,0 +1,3 @@
+LLM evaluation uses rubrics for factual accuracy, instruction adherence, and task completion.
+Reviewers compare model outputs and write evidence-based notes against source material.
+Python scripts can flag missing review fields and export JSON or CSV reports.

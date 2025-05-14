@@ -1,0 +1,3 @@
+Operations teams track open tasks, assignees, and due dates in a shared dashboard.
+Status filters help managers review blocked work and prioritize escalations.
+CSV imports must be validated before records are written to MongoDB.
